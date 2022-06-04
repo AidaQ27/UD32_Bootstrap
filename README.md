@@ -30,9 +30,19 @@ Definido index.html como pagina principal. Contiene la lista de enlaces hacia lo
 
 ## Ejercicios
 
+## UD32_4 Articulos
+
+![Captura de pantalla 2022-06-04 170147](https://user-images.githubusercontent.com/97692045/172010296-a527f8ec-4f17-4f36-a575-ed1525de05b0.jpg)
+
+
 ## UD32_5 Lista usuarios
 
 ![image](https://user-images.githubusercontent.com/67373492/171494194-39649437-acdd-4c58-b09f-f7c39dd7f59b.png)
+
+## UD32_6 Blog
+
+![Captura de pantalla 2022-06-04 170212](https://user-images.githubusercontent.com/97692045/172010342-45f145c0-037d-4b05-97d8-c83e5be325e9.jpg)
+
 
 ## UD32_8 Calculadora
 
